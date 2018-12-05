@@ -9,7 +9,7 @@ Some Matlab code I wrote to analyze MITgcm outputs
 - [Calculate streamfunction by solving the Poisson equation](https://github.com/costaandrea/some_matlab_codes/tree/master/stremf)
 ![](https://github.com/costaandrea/some_matlab_codes/blob/master/PSI_poiss_fovH.png)
 
-- Calculate streamfunction from its definition
+- [Calculate streamfunction from its definition](https://github.com/costaandrea/some_matlab_codes/blob/master/stremf/main2.m)
 
 - [Calculate vorticity and EKE](https://github.com/costaandrea/some_matlab_codes/blob/master/vort_EKE.m)
 
