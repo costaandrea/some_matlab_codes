@@ -13,5 +13,7 @@ Some Matlab code I wrote to analyze MITgcm outputs
 
 - [Calculate vorticity and EKE](https://github.com/costaandrea/some_matlab_codes/blob/master/vort_EKE.m)
 
+- [Calculate terms of barotropic equation](https://github.com/costaandrea/some_matlab_codes/blob/master/barotropic_eq_terms.m)
+
 - [Make movies](https://github.com/costaandrea/some_matlab_codes/blob/master/make_movie_SSH.m)
 
