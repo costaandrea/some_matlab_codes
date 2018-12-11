@@ -19,3 +19,10 @@ Some Matlab code I wrote to analyze MITgcm outputs
 ![](https://github.com/costaandrea/some_matlab_codes/blob/master/frame.png)
 ![](https://www.dropbox.com/s/hbvbf1e2wh7r7g0/HT_SSH_whole.gif?dl=0)
 
+- [Some nice figures](https://github.com/costaandrea/some_matlab_codes/blob/master/examples.m) I made to implement more complex codes
+
+![](https://github.com/costaandrea/some_matlab_codes/blob/master/fig1.png)
+![](https://github.com/costaandrea/some_matlab_codes/blob/master/fig2.png)
+![](https://github.com/costaandrea/some_matlab_codes/blob/master/fig3.png)
+![](https://github.com/costaandrea/some_matlab_codes/blob/master/fig4.png)
+
